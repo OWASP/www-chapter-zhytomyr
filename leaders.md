@@ -1,5 +1,5 @@
 <!--### Leaders
 
 ###Leaders
--->
-*[Bohdan Nikitenko](mailto:bohdan.nikitenko@owasp.org)
+
+* [Bohdan Nikitenko](mailto:bohdan.nikitenko@owasp.org)
