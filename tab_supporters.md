@@ -6,6 +6,12 @@ order: 1
 tags: example-tag
 ---
 
-## Example
+## Our supporters
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+### Chapter meeting sponsors
+
+These companies have demonstrated their support for Ukrainian
+Application Security community by funding our quarterly chapter
+meetings.
+
+![Stuzo](assets/images/partners/stuzo.png "Stuzo")
