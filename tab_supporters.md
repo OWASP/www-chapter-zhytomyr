@@ -1,9 +1,10 @@
 ---
-title: Example
+title: supporters
+displaytext: Our Supporters
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: supporters-tag
 ---
 
 ## Our supporters
