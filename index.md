@@ -1,9 +1,12 @@
 ---
+
 layout: col-sidebar
 title: OWASP Zhytomyr
 tags: supporters-tag past2019-tag
 level: 0
+
 region: Europe
+
 ---
 
 ## Who are we
