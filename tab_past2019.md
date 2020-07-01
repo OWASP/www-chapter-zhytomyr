@@ -6,7 +6,7 @@ tab: true
 order: 2
 tags: past2020-tag
 ---
-### Chapter Webinars 2020
+### Chapter Webinars 2019
 
 ## When?
 29 June 2019
@@ -14,6 +14,8 @@ tags: past2020-tag
 
 ## Where?
 Reikartz Hotel (2d floor). Zamkova Square, 5/8, Zhytomyr, 10002
+
+![OWASP ZHYTOMYR 2019](assets/images/meetup/owM2019.png "OWASP Zhytomyr 2019")
 
 ## Our Speakers
 
