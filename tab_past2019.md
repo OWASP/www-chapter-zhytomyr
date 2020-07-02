@@ -19,7 +19,8 @@ Reikartz Hotel (2d floor). Zamkova Square, 5/8, Zhytomyr, 10002
 
 ## Our Speakers
 
-1. Independent InfoSec Researcher
+1. Oleg Yudintsev
+Independent InfoSec Researcher
 How tasty are your cookies?
 
 How cookies can leak over insecure channel? How an Attacker can tamper or hijack remotely sensitive cookies of the user? What severe consequences can happen as a result of insecure cookie processing? In this presentation I'm going discuss different weaknesses in cookie lifecycle and how to process cookies securely.
