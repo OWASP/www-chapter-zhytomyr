@@ -1,6 +1,6 @@
 ---
 title: cfp 
-displaytext: CFP
+displaytext: Call for papers
 layout:  null
 tab: true
 order: 2
