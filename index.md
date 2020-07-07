@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Zhytomyr
-tags: supporters-tag past2019-tag cfp-tag
+tags: supporters-tag cfp-tag past2019-tag
 level: 0
 
 region: Europe

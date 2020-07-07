@@ -1,5 +1,5 @@
 ---
-title: CFP 
+title: cfp 
 displaytext: CFP
 layout:  null
 tab: true
