@@ -17,3 +17,6 @@ July 31
 
 ## Where?
 Zoom conference
+
+## Meetup link with details:
+[Meetup](https://www.meetup.com/ru-RU/OWASP-Zhytomyr-Chapter/events/271985702/)
