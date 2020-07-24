@@ -57,4 +57,5 @@ Venue requirements include:
 
 ## Announcements
 [Meetup](https://www.meetup.com/ru-RU/OWASP-Zhytomyr-Chapter/events/271985702/)
+![OWASP ZHYTOMYR 2020](assets/images/meetup/owasp_promo31.jpg "OWASP Zhytomyr 2020")
 ---
