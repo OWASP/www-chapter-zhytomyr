@@ -56,4 +56,5 @@ Venue requirements include:
   - No marketing, advertising, or hiring at the event
 
 ## Announcements
+[Meetup](https://www.meetup.com/ru-RU/OWASP-Zhytomyr-Chapter/events/271985702/)
 ---
