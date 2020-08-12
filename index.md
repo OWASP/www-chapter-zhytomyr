@@ -6,6 +6,9 @@ tags: supporters-tag cfp-tag past2019-tag event2020-tag
 level: 0
 
 region: Europe
+meetup-group: OWASP-Zhytomyr-Chapter
+country: Ukraine
+postal-code: 
 
 ---
 
