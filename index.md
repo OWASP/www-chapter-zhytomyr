@@ -16,7 +16,7 @@ postal-code:
 
 ![OWASP Zhytomyr](assets/images/OWASP_LOGO.png "OWASP Zhytomyr")
 
-OWASP Zhytomyr chapter was founded in 2019 by [Bohdan Nikitenko](mailto:bohdan.nikitenko@owasp.org) and Yulia Potapenko
+OWASP Zhytomyr chapter was founded in 2019 by [Bohdan Nikitenko](mailto:bohdan.nikitenko@owasp.org) and Julia Potapenko
 The chapter aims at holding quarterly meetups in the format of 4 talks and probably 1 workshop.
 
 ## How to find us
