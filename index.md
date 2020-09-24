@@ -34,7 +34,7 @@ If your company wishes to support the chapter, please contact [Bohdan Nikitenko]
 
 ## Become a Speaker
 
-Call For Speakers at OWASP Kyiv events is permanently open. If you want
+Call For Speakers at OWASP Zhytomyr events is permanently open. If you want
 to present at future events simply send the title and abstract
 of your talk and speaker bio to [Bohdan Nikitenko](mailto:bohdan.nikitenko@owasp.org)
 
