@@ -20,3 +20,18 @@ Zoom conference
 
 ## Meetup link with details:
 [Meetup](https://www.meetup.com/ru-RU/OWASP-Zhytomyr-Chapter/events/271985702/)
+
+--------------------------------------------------------------------------------
+
+
+![OWASP ZHYTOMYR 2020](assets/images/meetup/OWASP_promo2.jpg "OWASP Zhytomyr 2020")
+
+## When?
+September 22
+19:00
+
+## Where?
+Zoom conference
+
+## Meetup link with details:
+[Meetup](https://www.meetup.com/OWASP-Zhytomyr-Chapter/events/273139282/?isFirstPublish=true)

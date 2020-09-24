@@ -7,16 +7,4 @@ order: 5
 tags: event2020-tag
 ---
 
-## We are happy to announce our second event!
-
-![OWASP ZHYTOMYR 2020](assets/images/meetup/OWASP_promo2.jpg "OWASP Zhytomyr 2020")
-
-## When?
-September 22
-19:00
-
-## Where?
-Zoom conference
-
-## Meetup link with details:
-[Meetup](https://www.meetup.com/OWASP-Zhytomyr-Chapter/events/273139282/?isFirstPublish=true)
+Working on next event organisation. If you want to help us or submit a speech, please check the next [document](https://docs.google.com/document/d/1Ibh1ZImwCFMMXb22GlnoG7fstOyCv10GRwqrCs3-m0Q/edit?usp=sharing)
