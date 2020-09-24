@@ -49,7 +49,7 @@ chapter official web-page, and announced at the event itself
 
 ## Become a Host
 
-To host an OWASP Kyiv event, contact [Bohdan Nikitenko](mailto:bohdan.nikitenko@owasp.org)
+To host an OWASP Zhytomyr event, contact [Bohdan Nikitenko](mailto:bohdan.nikitenko@owasp.org)
 Venue requirements include:
 
   - Capacity to welcome up to 40-50 attendees
