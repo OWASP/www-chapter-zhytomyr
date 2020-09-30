@@ -16,7 +16,8 @@ postal-code:
 
 ![OWASP Zhytomyr](assets/images/OWASP_LOGO.png "OWASP Zhytomyr")
 
-OWASP Zhytomyr chapter was founded in 2019 by [Bohdan Nikitenko](mailto:bohdan.nikitenko@owasp.org) and Julia Potapenko
+OWASP Zhytomyr chapter was founded in 2019 by [Bohdan Nikitenko](mailto:bohdan.nikitenko@owasp.org)
+Second leader is [Julia Potapenko] (mailto:julia.potapenko@owasp.org)
 The chapter aims at holding quarterly meetups in the format of 4 talks and probably 1 workshop.
 
 ## How to find us
@@ -28,7 +29,7 @@ Follow our news and announcements on social media:
 
 ## How to support the chapter
 
-If your company wishes to support the chapter, please contact [Bohdan Nikitenko](mailto:bohdan.nikitenko@owasp.org)
+If your company wishes to support the chapter, please contact [Bohdan Nikitenko](mailto:bohdan.nikitenko@owasp.org) or [Julia Potapenko] (mailto:julia.potapenko@owasp.org)
 
 # Future Events
 
@@ -36,11 +37,11 @@ If your company wishes to support the chapter, please contact [Bohdan Nikitenko]
 
 Call For Speakers at OWASP Zhytomyr events is permanently open. If you want
 to present at future events simply send the title and abstract
-of your talk and speaker bio to [Bohdan Nikitenko](mailto:bohdan.nikitenko@owasp.org)
+of your talk and speaker bio to [Bohdan Nikitenko](mailto:bohdan.nikitenko@owasp.org) or [Julia Potapenko] (mailto:julia.potapenko@owasp.org)
 
 ## Become a Sponsor
 
-To sponsor an OWASP Zhytomyr event, contact [Bohdan Nikitenko](mailto:bohdan.nikitenko@owasp.org)
+To sponsor an OWASP Zhytomyr event, contact [Bohdan Nikitenko](mailto:bohdan.nikitenko@owasp.org) or [Julia Potapenko] (mailto:julia.potapenko@owasp.org)
 
 We don't have any special sponsorship package, however the sponsoring
 organization or individual will receive our warm thanks and a fair
