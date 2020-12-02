@@ -16,7 +16,10 @@ Application Security community by funding our quarterly chapter
 meetings.
 
 ![Stuzo](assets/images/partners/stuzo.png "Stuzo")
-![Huawei](assets/images/partners/Huawei.png "Huawei")
+
+--------------------------------------------------------------------------------
+
+![Huawei](assets/images/partners/Huawei.jpg "Huawei")
 
 
 ### If you want to support or collaborate with us

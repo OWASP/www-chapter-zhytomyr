@@ -21,15 +21,25 @@ Welcome to the sixth annual OWASP Ukraine 2020 conference - the largest Applicat
 
 ## Schedule (could be changed)
 11:00 Opening + lottery/raffles announcement
+
 11:25 Maksym Khramov & Serhii Korolenko - 6 digit OTP for Two Factor Auth (2FA) is brute-forceable in 3 days + OTP Lottery
+
 11:45 Julia Potapenko - React Native Security: Addressing Typical Mistakes
+
 12:30 Константин Корсун - Безпека додатку Дія - "Оскар" чи "Золота малина”
+
 13:30 Anatolii Bereziuk - OAuth2.0: What? Where? When?
-14:30 Lottery/raffles updates 
+
+14:30 Lottery/raffles updates
+
 14:40 Serhii Korolenko & Eduard Kiiko & Oksana Safronova - OWASP JuicyShop Workshop
+
 16:00 Pawel Rzepa - Serverless security: attack & defense (in English)
+
 17:00 Philippe Humeau - Leveraging the crowd power to regain faith in Internet’s zero trust architecture (in English)
+
 18:00 Lottery/raffles results 
+
 18:30 Closing word
 
 ## Meetup link with details:
