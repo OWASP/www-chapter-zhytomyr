@@ -1,6 +1,6 @@
-### Chapter Information
-
-
+<!--### Chapter Information	### Chapter Information
+* Chapter Region	
+region: Europe
 
 auto-migrated: 1
 ## Who are we
