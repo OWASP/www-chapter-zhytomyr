@@ -34,9 +34,9 @@ Welcome to the sixth annual OWASP Ukraine 2020 conference - the largest Applicat
 
 14:40 Serhii Korolenko & Eduard Kiiko & Oksana Safronova - OWASP JuicyShop Workshop
 
-16:00 Pawel Rzepa - Serverless security: attack & defense (in English)
+16:00 Philippe Humeau - Leveraging the crowd power to regain faith in Internet’s zero trust architecture (in English)
 
-17:00 Philippe Humeau - Leveraging the crowd power to regain faith in Internet’s zero trust architecture (in English)
+17:00 Pawel Rzepa - Serverless security: attack & defense (in English)
 
 18:00 Lottery/raffles results 
 
