@@ -10,7 +10,7 @@ tags: event2021-tag
 
 ## №2 OWASP Zhytomyr Spring Meetup 2021
 
-![OWASP ZHYTOMYR 2021](assets/images/meetup/Owasp2021n2 "OWASP Zhytomyr 2021")
+![OWASP ZHYTOMYR 2021](assets/images/meetup/Owasp2021n2.jpg "OWASP Zhytomyr 2021")
 
 ## When?
 April 20
