@@ -9,6 +9,7 @@ tags: cfp-tag
 
 ### Call For Papers 2021
 
-Hey! We are happy to announce the CFP for our first online meetup! OWASP Zhytomyr event will be held soon, so if you have a prepared speech with the topic related to the security we are happy to include you in our program!
+Call For Speakers at OWASP Zhytomyr events is permanently open. If you want
+to present at future events simply send the title and abstract
+of your talk and speaker bio to [Bohdan Nikitenko](mailto:bohdan.nikitenko@owasp.org) or [Julia Potapenko](mailto:julia.potapenko@owasp.org)
 
-[Submit your speach here](https://docs.google.com/forms/d/1huVxfvbYOhxWrLuWNUZ9sJKpALdGmqs8gDW3eUZRQBo/edit)
