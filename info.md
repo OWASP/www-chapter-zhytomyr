@@ -1,8 +1,5 @@
-<!--### Chapter Information	### Chapter Information
-* Chapter Region	
-region: Europe
+### Chapter Information
 
-auto-migrated: 1
 ## Who are we
 
 ![OWASP Zhytomyr](assets/images/OWASP_LOGO.png "OWASP Zhytomyr")
@@ -13,9 +10,10 @@ The chapter aims at holding quarterly meetups in the format of 4 talks and proba
 ## How to find us
 
 Follow our news and announcements on social media:
-[Facebook](https://www.facebook.com/owaspzhytomyr/)
-[Telegram](https://t.me/OWASP_ZHYTOMYR_OFFICIAL)
-[Meetup](https://www.meetup.com/OWASP-Zhytomyr-Chapter/events/)
+
+- [Facebook](https://www.facebook.com/owaspzhytomyr/)
+- [Telegram](https://t.me/OWASP_ZHYTOMYR_OFFICIAL)
+- [Meetup](https://www.meetup.com/OWASP-Zhytomyr-Chapter/events/)
 
 ## How to support the chapter
 
