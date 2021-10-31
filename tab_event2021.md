@@ -8,4 +8,17 @@ tags: event2021-tag
 ---
 ### Chapter Webinars 2021
 
-### Please, check the CFP page. We are currently working on the next event!
+### OWASP Zhytomyr 2021 Meetup #3
+![OWASP ZHYTOMYR 2021](assets/images/meetup/OWASP3.jpeg "OWASP Zhytomyr 2021 Meetup #3")
+
+## When?
+24.11.2021
+19:00
+
+## Where?
+YouTube
+
+## Meetup link with details:
+[Meetup](https://www.meetup.com/OWASP-Zhytomyr-Chapter/events/281782803/)
+
+
