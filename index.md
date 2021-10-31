@@ -60,7 +60,3 @@ Venue requirements include:
   - No need for additional attendee registration or providing attendee
     lists
   - No marketing, advertising, or hiring at the event
-
-## Announcements
-
----
