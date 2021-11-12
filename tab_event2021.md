@@ -6,9 +6,9 @@ tab: true
 order: 6
 tags: event2021-tag
 ---
-### Chapter Webinars 2021
+# Chapter Webinars 2021
 
-### OWASP Zhytomyr 2021 Meetup #3
+## OWASP Zhytomyr 2021 Meetup #3
 ![OWASP ZHYTOMYR 2021](assets/images/meetup/OWASP3.jpeg "OWASP Zhytomyr 2021 Meetup #3")
 
 ## When?
@@ -29,7 +29,7 @@ By the way, we are ready to announce our speakers!
 
 -------------------------------------------------------------------------------
 
-# Please, meet our first speaker!
+### Please, meet our first speaker!
 
 ![OWASP ZHYTOMYR 2021](assets/images/meetup/OWZs1.JPEG "Speaker #1")
 
@@ -41,7 +41,7 @@ Using this research lab, I’ll show you how different apps implement certain OW
 
 -------------------------------------------------------------------------------
 
-# Okay, next speaker! Meet Ali Huseyn!
+### Okay, next speaker! Meet Ali Huseyn!
 
 ![OWASP ZHYTOMYR 2021](assets/images/meetup/OWZs2.jpeg "Speaker #2")
 
@@ -51,7 +51,7 @@ Ali Huseyn Aliyev (@chmodxrw)
 
 -------------------------------------------------------------------------------
 
-# OWASP Zhytomyr last but not least speaker, Dmytro Pavlov!
+### OWASP Zhytomyr last but not least speaker, Dmytro Pavlov!
 
 ![OWASP ZHYTOMYR 2021](assets/images/meetup/OWZs3.jpg "Speaker #3")
 
@@ -61,8 +61,7 @@ Description: Prototype pollution vulnerability might vary from “extremely dang
 
 -------------------------------------------------------------------------------
 
-# Aaaand of course our sponsor!
-Welcome Huawei!
+### Aaaand of course our sponsor! Welcome Huawei!
 
 ![OWASP ZHYTOMYR 2021](assets/images/meetup/Huawei_logo.jpeg "Sponsor HUAWEI")
 
@@ -70,6 +69,6 @@ Welcome Huawei!
 
 Кібербезпека та захист персональних даних є пріоритетами Huawei. У своїй діяльності компанія дотримується кращих світових практик та стандартів з безпечної розробки та захисту програмного забезпечення, а також робить власний вагомий внесок у розвиток відповідних стандартів. Компанія вкладає значні кошти в фундаментальні дослідження, концентруючись на технологічних проривах, які просувають світ уперед."
 
-# See you!
+## See you!
 
 
