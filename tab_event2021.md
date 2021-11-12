@@ -29,7 +29,7 @@ By the way, we are ready to announce our speakers!
 
 -------------------------------------------------------------------------------
 
-### Please, meet our first speaker!
+### Please, meet our first speaker Artur!
 
 ![OWASP ZHYTOMYR 2021](assets/images/meetup/OWZs1.JPEG "Speaker #1")
 
