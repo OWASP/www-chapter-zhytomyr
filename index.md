@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Zhytomyr
-tags: supporters-tag cfp-tag past2019-tag past2020-tag past2021-tag event2021-tag
+tags: supporters-tag cfp-tag past2019-tag past2020-tag past2021-tag past2021-tag past2022-tag event2022-tag
 level: 0
 
 region: Europe
