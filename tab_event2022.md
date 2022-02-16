@@ -7,5 +7,5 @@ order: 7
 tags: event2022-tag
 ---
 
-Welcome to the first OWASP Zhytomyr event in 2022!
+Welcome to the second OWASP Zhytomyr event in 2022!
 As always, we will meet online and learn from the masters. We hope that you are hungry for the new security-talks =) CFP link TBD
