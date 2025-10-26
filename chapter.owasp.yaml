@@ -1,0 +1,28 @@
+leaders:
+  - name: Bohdan Nikitenko
+    email: bohdan.nikitenko@owasp.org
+  - name: Julia Potapenko
+    email: julia.mezher@owasp.org
+location:
+  country: Ukraine
+  country_code: UA
+  region: Ukraine
+  city: Zhytomyr
+  latitude: 50.9080532
+  longitude: 28.3867504
+meetup_group: OWASP-Zhytomyr-Chapter
+name: OWASP Zhytomyr
+repositories:
+  - name: www-chapter-zhytomyr
+    url: https://github.com/OWASP/www-chapter-zhytomyr
+    description: OWASP Foundation Web Repository
+tags:
+  - supporters-tag
+  - cfp-tag
+  - past2019-tag
+  - past2020-tag
+  - past2021-tag
+  - past2022-tag
+  - event2023-tag
+  - past2023-tag
+website: https://owasp.org/www-chapter-zhytomyr
